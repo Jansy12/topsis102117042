@@ -17,7 +17,7 @@ Reproducibility A random state of 42 is set during the sampling process to ensur
 
 Machine Learning Models
 
-Selected Models Five machine learning models are chosen for evaluation: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, and Support Vector Classifier (SVC).
+Selected Models Five machine learning models are chosen for evaluation: Logistic Regression, Decision Tree, Random Forest, XGB, and Support Vector Classifier (SVC).
 
 Model Training Each model is trained on the entire scaled resampled dataset. Note that, in practice, model training would typically be performed on the training set.
 
